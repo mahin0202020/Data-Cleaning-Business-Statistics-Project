@@ -24,6 +24,7 @@ This project focuses on cleaning messy manufacturing datasets and applying stati
    - ✅ Which material type yields the highest average BatchYield%? *(ANOVA)*
    - ✅ Do more experienced operators produce fewer defects? *(T-Test)*
    - ✅ Are suppliers with lower QualityScore linked to higher defect counts? *(Correlation & Regression)*
+   - and many more
 
 ## 📊 Example Insights
 - Mean gadget length is statistically different from the 50mm target.
